@@ -46,7 +46,7 @@ splitListHalfs :: [a] -> ([a], [a])
 splitListHalfs [] = ([], [])
 splitListHalfs our_list = splitListByIndex ( div ((length our_list) + 1) 2) our_list
 
--- Print all sublists from main list
+-- Print all sublists from our list
 listCheckSublists :: [a] -> [[a]]
 listCheckSublists [] = [[]]
 listCheckSublists (x:xs) = sublists' [] (x:xs) ++ listCheckSublists xs
