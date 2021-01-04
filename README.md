@@ -1,4 +1,5 @@
-
 # Haskell Algorithms
+This is a simple library of Haskell algorithms: you can use this code as you like.
 
-> Just a test text. In fact, it doesn't carry anything useful. Useful text will be added later.
+**Authors:**
+	- Alexey "bru1t" Kuznetsov
