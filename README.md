@@ -1,3 +1,3 @@
-# haskell_algorithms
+# Haskell Algorithms
 
-Just a test file. In fact, it doesn't carry anything useful. Useful text will be added later.
+> Just a test text. In fact, it doesn't carry anything useful. Useful text will be added later.
